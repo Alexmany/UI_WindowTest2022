@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: ac1750e241ffc4a43abb6720edb4f44f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3308639419828466022
+    second: Boot_redneck
+  - first:
+      213: -4095400071365676399
+    second: Border
+  - first:
+      213: -2891829057532664665
+    second: CheckMark
+  - first:
+      213: 6715226756886661439
+    second: Clerk_Body
+  - first:
+      213: 2978733481236534972
+    second: Clerk_Larm1
+  - first:
+      213: -6893800074870105730
+    second: Clerk_Larm2
+  - first:
+      213: 400290032134227475
+    second: Clerk_Llag1
+  - first:
+      213: 564422908053022088
+    second: Clerk_Llag2
+  - first:
+      213: -5897584908185814953
+    second: clerk_photo
+  - first:
+      213: -9191117111128904487
+    second: Clerk_Rarm1
+  - first:
+      213: -5303184752596099834
+    second: Clerk_Rarm2
+  - first:
+      213: 8140151150528692710
+    second: Clerk_Rlag1
+  - first:
+      213: -8306174676352939452
+    second: Clerk_Rlag2
+  - first:
+      213: -1587987919575431661
+    second: Cop_Body
+  - first:
+      213: -3290820668580675199
+    second: Cop_boot
+  - first:
+      213: 7519401076148194899
+    second: Cop_Larm1
+  - first:
+      213: -3418535766931066424
+    second: Cop_Larm2
+  - first:
+      213: -3218488818297103824
+    second: Cop_Llag1
+  - first:
+      213: -1679618605772804034
+    second: Cop_Llag2
+  - first:
+      213: -3458055248804701864
+    second: cop_photo
+  - first:
+      213: -3129016609920751652
+    second: Cop_Rarm1
+  - first:
+      213: -3238932111620200822
+    second: Cop_Rarm2
+  - first:
+      213: 749535474357924417
+    second: Cop_Rlag1
+  - first:
+      213: -2970128633850994985
+    second: Cop_Rlag2
+  - first:
+      213: 8518971519848226516
+    second: Fatman_Body_Norm
+  - first:
+      213: -8960852804457731827
+    second: Fatman_Lags_Norm
+  - first:
+      213: -3002689034632185969
+    second: Fatman_Lags_Sitt
+  - first:
+      213: -8725645288743655826
+    second: Fatman_Larm1_Norm
+  - first:
+      213: 1100610767397932755
+    second: Fatman_Larm2_Norm
+  - first:
+      213: 5137652159554917041
+    second: Fatman_Larm3_Norm
+  - first:
+      213: 5975825416231744253
+    second: fatman_photo
+  - first:
+      213: 4352605920951452014
+    second: Fatman_Rarm1_Norm
+  - first:
+      213: -174178837875150482
+    second: Fatman_Rarm2_Norm
+  - first:
+      213: -7642510006324028408
+    second: Fatman_Rarm3_Norm
+  - first:
+      213: 274043162854230356
+    second: Freez_boot
+  - first:
+      213: 7137430578552174301
+    second: Freeze_hand
+  - first:
+      213: 6422743331212370972
+    second: freeze_photo
+  - first:
+      213: 2451465455607798046
+    second: Gift
+  - first:
+      213: 376190887733419485
+    second: hamburger
+  - first:
+      213: -2788909878365521918
+    second: Hand_redneck
+  - first:
+      213: 255938060062979557
+    second: Isis_Sheik_Oil
+  - first:
+      213: 1013325160565858412
+    second: Kamen1
+  - first:
+      213: 4839868621653836275
+    second: lng_board
+  - first:
+      213: 6552576619459773246
+    second: Mex_Cock_Taco
+  - first:
+      213: 4803550926704436989
+    second: Radnack_Class_Body
+  - first:
+      213: 1860465449515985092
+    second: Radnack_Class_Gun
+  - first:
+      213: 728706295343162356
+    second: Radnack_Class_Larm1
+  - first:
+      213: -9189383630455051613
+    second: Radnack_Class_Larm2
+  - first:
+      213: 3417850469181176322
+    second: Radnack_Class_Llag1
+  - first:
+      213: -185208954536822308
+    second: Radnack_Class_Llag2
+  - first:
+      213: -5837056210246332722
+    second: Radnack_Class_Rarm1
+  - first:
+      213: 3732187912911783110
+    second: Radnack_Class_Rarm2
+  - first:
+      213: -2146518184382386722
+    second: Radnack_Class_Rlag1
+  - first:
+      213: 3267329395260522011
+    second: Radnack_Class_Rlag2
+  - first:
+      213: -3414834641641896392
+    second: Radnack_Freez_Body
+  - first:
+      213: 7536409687131906972
+    second: Radnack_Freez_Gun
+  - first:
+      213: 6354528623011251266
+    second: Radnack_Freez_Larm1
+  - first:
+      213: -2798975585082173504
+    second: Radnack_Freez_Larm2
+  - first:
+      213: 5144591162063026909
+    second: Radnack_Freez_Llag1
+  - first:
+      213: 3261577729362106665
+    second: Radnack_Freez_Llag2
+  - first:
+      213: -3358489935446716456
+    second: Radnack_Freez_Rarm1
+  - first:
+      213: 271796768324757585
+    second: Radnack_Freez_Rarm2
+  - first:
+      213: -116650246339384578
+    second: Radnack_Freez_Rlag1
+  - first:
+      213: 2713518667087592246
+    second: Radnack_Freez_Rlag2
+  - first:
+      213: 4669194400041722113
+    second: Radnack_Rembo_Body
+  - first:
+      213: -6821229782568008662
+    second: Radnack_Rembo_Gun
+  - first:
+      213: -3690760428230772658
+    second: Radnack_Rembo_Larm1
+  - first:
+      213: -6558362065594439493
+    second: Radnack_Rembo_Larm2
+  - first:
+      213: 1995404003845166345
+    second: Radnack_Rembo_Llag1
+  - first:
+      213: 7943364866904191092
+    second: Radnack_Rembo_Llag2
+  - first:
+      213: -8202781621982878881
+    second: Radnack_Rembo_Rarm1
+  - first:
+      213: 3793125432907536484
+    second: Radnack_Rembo_Rarm2
+  - first:
+      213: -5606310595326268449
+    second: Radnack_Rembo_Rlag1
+  - first:
+      213: -3502084312215684621
+    second: Radnack_Rembo_Rlag2
+  - first:
+      213: 610589571787963037
+    second: redneck_photo
+  - first:
+      213: 4950303257268935916
+    second: RednkGril_BBQ
+  - first:
+      213: 4924033767044679737
+    second: rembo_photo
+  - first:
+      213: 3014762709036160965
+    second: Sub1
+  - first:
+      213: -7392424704743923198
+    second: white
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 45
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 45
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boot_redneck
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2546
+        width: 155
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661fabcb506aaed20800000000000000
+      internalID: 3308639419828466022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3390
+        width: 1039
+        height: 1543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192b32d55573a27c0800000000000000
+      internalID: -4095400071365676399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheckMark
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 5515
+        width: 111
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5045045, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4ec923bc82ed7d0800000000000000
+      internalID: -2891829057532664665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerk_Body
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2395
+        width: 439
+        height: 902
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f398d661827413d50800000000000000
+      internalID: 6715226756886661439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerk_Larm1
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1637
+        width: 133
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb69aa5b156965920800000000000000
+      internalID: 2978733481236534972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerk_Larm2
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2946
+        width: 201
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e795ec85b5d4450a0800000000000000
+      internalID: -6893800074870105730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerk_Llag1
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 2203
+        width: 155
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3168d74d9ad1e8500800000000000000
+      internalID: 400290032134227475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerk_Llag2
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 5717
+        width: 77
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885e799f4ab35d700800000000000000
+      internalID: 564422908053022088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clerk_photo
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 4288
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75831e2d5c1972ea0800000000000000
+      internalID: -5897584908185814953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerk_Rarm1
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 3562
+        width: 292
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dca52e1fa7927080800000000000000
+      internalID: -9191117111128904487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerk_Rarm2
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 3700
+        width: 93
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ddd33a09d4766b0800000000000000
+      internalID: -5303184752596099834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerk_Rlag1
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2571
+        width: 164
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10041d750a7f070800000000000000
+      internalID: 8140151150528692710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clerk_Rlag2
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1908
+        width: 75
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a43adc32a8abc80800000000000000
+      internalID: -8306174676352939452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Body
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3082
+        width: 479
+        height: 972
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3164812966556f9e0800000000000000
+      internalID: -1587987919575431661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_boot
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 5459
+        width: 111
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1814cb59908a452d0800000000000000
+      internalID: -3290820668580675199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Larm1
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 4757
+        width: 192
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ec08370774a5860800000000000000
+      internalID: 7519401076148194899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Larm2
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 3039
+        width: 217
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13b1805dbee80d0800000000000000
+      internalID: -3418535766931066424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Llag1
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 2133
+        width: 155
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a95d7d871a553d0800000000000000
+      internalID: -3218488818297103824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Llag2
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 4321
+        width: 77
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3076cce6cbc0b8e0800000000000000
+      internalID: -1679618605772804034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cop_photo
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 3886
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591251a2158200d0800000000000000
+      internalID: -3458055248804701864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Rarm1
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2400
+        width: 118
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd76065b8ff7394d0800000000000000
+      internalID: -3129016609920751652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Rarm2
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 4226
+        width: 255
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86a543b7600d03d0800000000000000
+      internalID: -3238932111620200822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Rlag1
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 2301
+        width: 157
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14278afea82e66a00800000000000000
+      internalID: 749535474357924417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Rlag2
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2280
+        width: 76
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de58127ebbf7c6d0800000000000000
+      internalID: -2970128633850994985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatman_Body_Norm
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 7035
+        width: 723
+        height: 1156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de193c3677793670800000000000000
+      internalID: 8518971519848226516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatman_Lags_Norm
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3980
+        width: 521
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09ebb9d9d7a4a380800000000000000
+      internalID: -8960852804457731827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatman_Lags_Sitt
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 4056
+        width: 824
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87b9cf5b3e4456d0800000000000000
+      internalID: -3002689034632185969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatman_Larm1_Norm
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 3725
+        width: 249
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66af5027d748e680800000000000000
+      internalID: -8725645288743655826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatman_Larm2_Norm
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 4305
+        width: 184
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de49b269a7264f00800000000000000
+      internalID: 1100610767397932755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatman_Larm3_Norm
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 3713
+        width: 131
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b21acd2b6b9c4740800000000000000
+      internalID: 5137652159554917041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatman_photo
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3654
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27e360e856ee250800000000000000
+      internalID: 5975825416231744253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatman_Rarm1_Norm
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 3050
+        width: 268
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61c2952600976c30800000000000000
+      internalID: 4352605920951452014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatman_Rarm2_Norm
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 5037
+        width: 192
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61bf011541359df0800000000000000
+      internalID: -174178837875150482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fatman_Rarm3_Norm
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 3700
+        width: 154
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c10b814a950f590800000000000000
+      internalID: -7642510006324028408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freez_boot
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2405
+        width: 152
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4590d0ffdc89dc300800000000000000
+      internalID: 274043162854230356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freeze_hand
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 2749
+        width: 162
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6fc93ab4f3d0360800000000000000
+      internalID: 7137430578552174301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freeze_photo
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3252
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c142c64d70b222950800000000000000
+      internalID: 6422743331212370972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 5619
+        width: 696
+        height: 466
+      alignment: 9
+      pivot: {x: 0.49784482, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19d4ace7da550220800000000000000
+      internalID: 2451465455607798046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 4690
+        width: 311
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddd6178e9f783500800000000000000
+      internalID: 376190887733419485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_redneck
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 2648
+        width: 161
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208f17ded3dcb49d0800000000000000
+      internalID: -2788909878365521918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_Sheik_Oil
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 2673
+        width: 405
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e57e824f464d8300800000000000000
+      internalID: 255938060062979557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kamen1
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 2687
+        width: 460
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c606e7d5ddd001e00800000000000000
+      internalID: 1013325160565858412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lng_board
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 6087
+        width: 701
+        height: 946
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f18c316edaaa2340800000000000000
+      internalID: 4839868621653836275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mex_Cock_Taco
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 4562
+        width: 190
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e330e66e7bd6fea50800000000000000
+      internalID: 6552576619459773246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Body
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3014
+        width: 486
+        height: 964
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df667b61e14a9a240800000000000000
+      internalID: 4803550926704436989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Gun
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 4462
+        width: 860
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8a94b1873b1d910800000000000000
+      internalID: 1860465449515985092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Larm1
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2630
+        width: 162
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32587c382ec1a00800000000000000
+      internalID: 728706295343162356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Larm2
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 3040
+        width: 216
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaefe98640c87080800000000000000
+      internalID: -9189383630455051613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Llag1
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2247
+        width: 154
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a32f6a4e4ae6f20800000000000000
+      internalID: 3417850469181176322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Llag2
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2207
+        width: 76
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd97c97ef610e6df0800000000000000
+      internalID: -185208954536822308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Rarm1
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1855
+        width: 146
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece87468d4c9efea0800000000000000
+      internalID: -5837056210246332722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Rarm2
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 4147
+        width: 254
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c40d1002256bc330800000000000000
+      internalID: 3732187912911783110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Rlag1
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2589
+        width: 167
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda8f385190632e0800000000000000
+      internalID: -2146518184382386722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Class_Rlag2
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1743
+        width: 75
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ef1b026c2e75d20800000000000000
+      internalID: 3267329395260522011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Body
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 4554
+        width: 577
+        height: 1063
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8368c3a6cf11c90d0800000000000000
+      internalID: -3414834641641896392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Gun
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 4657
+        width: 860
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c936f4b4ea4b69860800000000000000
+      internalID: 7536409687131906972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Larm1
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2519
+        width: 123
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24443a96d12df2850800000000000000
+      internalID: 6354528623011251266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Larm2
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 2959
+        width: 247
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c79f24f88a0829d0800000000000000
+      internalID: -2798975585082173504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Llag1
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 2287
+        width: 155
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda71699762456740800000000000000
+      internalID: 5144591162063026909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Llag2
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 3952
+        width: 77
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92914fd0aa3734d20800000000000000
+      internalID: 3261577729362106665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Rarm1
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1678
+        width: 145
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df49ff923f3461d0800000000000000
+      internalID: -3358489935446716456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Rarm2
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 3444
+        width: 270
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158a81388bd95c300800000000000000
+      internalID: 271796768324757585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Rlag1
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2916
+        width: 168
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaaaff0833916ef0800000000000000
+      internalID: -116650246339384578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Freez_Rlag2
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1908
+        width: 75
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bb523d9da58a520800000000000000
+      internalID: 2713518667087592246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Body
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 2736
+        width: 443
+        height: 962
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101eab1819f4cc040800000000000000
+      internalID: 4669194400041722113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Gun
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3084
+        width: 1023
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2408b637af1651a0800000000000000
+      internalID: -6821229782568008662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Larm1
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2574
+        width: 136
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e487c3ce1f8c7ccc0800000000000000
+      internalID: -3690760428230772658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Larm2
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2969
+        width: 209
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a8d3f2740cf4a0800000000000000
+      internalID: -6558362065594439493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Llag1
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2160
+        width: 154
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90555909e5911bb10800000000000000
+      internalID: 1995404003845166345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Llag2
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 5347
+        width: 77
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470742db2408c3e60800000000000000
+      internalID: 7943364866904191092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Rarm1
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1899
+        width: 149
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53ab93339dd92e80800000000000000
+      internalID: -8202781621982878881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Rarm2
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 4059
+        width: 253
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46814f00c73e3a430800000000000000
+      internalID: 3793125432907536484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Rlag1
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2038
+        width: 149
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdba11197326232b0800000000000000
+      internalID: -5606310595326268449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radnack_Rembo_Rlag2
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1887
+        width: 76
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f97ae47fd8166fc0800000000000000
+      internalID: -3502084312215684621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redneck_photo
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2850
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9abaf10bff397800800000000000000
+      internalID: 610589571787963037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RednkGril_BBQ
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3299
+        width: 1025
+        height: 1634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec59fba59203b440800000000000000
+      internalID: 4950303257268935916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rembo_photo
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 2557
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9380aba5f9ea55440800000000000000
+      internalID: 4924033767044679737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sub1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4935
+        width: 3316
+        height: 3256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7d13206b696d920800000000000000
+      internalID: 3014762709036160965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2839
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202aae4d5e4d86990800000000000000
+      internalID: -7392424704743923198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

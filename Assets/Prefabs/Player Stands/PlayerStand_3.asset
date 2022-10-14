@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022a11dea2713804cb420f47b4ce7567, type: 3}
+  m_Name: PlayerStand_3
+  m_EditorClassIdentifier: 
+  nameOfTheContent: Rock
+  icon: {fileID: 1013325160565858412, guid: ac1750e241ffc4a43abb6720edb4f44f, type: 3}
+  obectsToShow: {fileID: 3644549026652641873, guid: fa9a891b55070b94389d7d87b9b47186, type: 3}

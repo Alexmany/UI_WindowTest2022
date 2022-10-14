@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022a11dea2713804cb420f47b4ce7567, type: 3}
+  m_Name: PlayerStand_4
+  m_EditorClassIdentifier: 
+  nameOfTheContent: BBQ Grill
+  icon: {fileID: 4950303257268935916, guid: ac1750e241ffc4a43abb6720edb4f44f, type: 3}
+  obectsToShow: {fileID: 1738078248048851303, guid: ab708d752e3b61243a99d0d309a39bed, type: 3}
